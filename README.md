@@ -2,7 +2,7 @@
 
 DocuMind AI is a next-generation, high-performance conversational AI tool designed to extract intelligent insights instantly from any PDF document. Built for elite performance and a frictionless user experience, it features a highly customized, premium dark-mode interface tailored for UI/UX excellence.
 
-🚀 **[Live Demo on Hugging Face](https://huggingface.co/spaces/kunnu2012/Kunal-PDF-Bot)** *(Note: Replace this link with your actual space link)*
+🚀 **[Live Demo on Hugging Face](https://bit.ly/4aF8CGD)** *(Note: Replace this link with your actual space link)*
 
 ---
 
